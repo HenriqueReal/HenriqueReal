@@ -1,4 +1,5 @@
 ## Olá me chamo Luiz Henrique Real
+<p> Administrador de empresas pela UFSM-RS </p>
 <p> Dev full stack com foco em Back-end!! 😎</p>
 <p> Atualmente aluno da Cubos Academy 🧊 </p>
 <p> Ciclista amador nas horas vagas 🚵‍♀️ </p>
