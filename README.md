@@ -1,4 +1,7 @@
-## Olá eu sou a Luiz Henrique Real, Dev full stack com foco em Back-end!! 😎
+## Olá eu sou a Luiz Henrique Real
+Dev full stack com foco em Back-end!! 😎
+Ciclista amador nas horas vagas 🚵‍♀️
+Atualmente aluno da Cubos Academy 🧊
 
 <div align="center">
   <a href="https://github.com/HenriqueReal">
@@ -11,7 +14,7 @@
   <img align="center" alt="Henrique-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Henrique-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Henrique-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Henrique-pic" height="150" style="border-radius:50px;" src="https://clubedosgeeks.com.br/wp-content/uploads/2016/01/testei.gif">
+  <img align="right" alt="Henrique-pic" height="150" style="border-radius:50px;" src="https://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif">
   
 </div>
   
