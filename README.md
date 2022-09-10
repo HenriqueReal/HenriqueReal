@@ -1,7 +1,7 @@
 ## Olá eu sou a Luiz Henrique Real
-Dev full stack com foco em Back-end!! 😎
-Ciclista amador nas horas vagas 🚵‍♀️
-Atualmente aluno da Cubos Academy 🧊
+<p> Dev full stack com foco em Back-end!! 😎</p>
+<p> Ciclista amador nas horas vagas 🚵‍♀️ </p>
+<p> Atualmente aluno da Cubos Academy 🧊 </p>
 
 <div align="center">
   <a href="https://github.com/HenriqueReal">
