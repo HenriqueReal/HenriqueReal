@@ -22,11 +22,10 @@
 
 ## Stats do meu Github
 
-<div>
-<a href="https://github.com/HenriqueReal">
-<img heigth="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=HenriqueReal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<a href="https://github.com/HenriqueReal">
-  <img heigth="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=HenriqueReal&layout=compact&langs_count=16&theme=tokyonight"/>
+<div align="center">
+  <a href="https://github.com/HenriqueReal">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueReal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueReal&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
  
   ## Redes Sociais e contatos
